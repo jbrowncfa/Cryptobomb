@@ -1,4 +1,4 @@
-## No on knows the true value of cryptocurrency, but blockchain technology that supports cyrptocurrency transactions will change the world, possibly more significantly financially than the advent of the internet.  
+## No one knows the true value of cryptocurrency, but blockchain technology that supports cyrptocurrency transactions will change the world, possibly more significantly financially than the advent of the internet.  
 
 This project is a React application working with [CryptoCompare API](https://www.cryptocompare.com/api/#).
 
